@@ -15,7 +15,7 @@ Códigos [Kotlin](http://kotlinlang.org) desenvolvidos em sala de aula.
 \# | Data | Projeto | Conteúdo
 --- | --- | --- | ---
 01 | 02/10/2017 | PrimeiroProjeto | Kotlin Básico
-
+02 | 04/10/2017 | Kootlin | Conceitos básicos de OO
 
 ## **Android**
 Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sala de aula.
