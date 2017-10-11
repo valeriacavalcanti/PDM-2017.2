@@ -17,8 +17,6 @@ Códigos [Kotlin](http://kotlinlang.org) desenvolvidos em sala de aula.
 01 | 02/10/2017 | PrimeiroProjeto | Kotlin Básico
 02 | 04/10/2017 | Kootlin | Conceitos básicos de OO
 03 | 09/10/2017 | Kootlin | Coleções
-04 | 11/10/2017 | IFPB | Alô Mundo Android - Java
-05 | 11/10/2017 | IFPBK | Alô Mundo Android - Kotlin
 
 ## **Android**
 Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sala de aula.
@@ -27,6 +25,8 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 
 \# | Data | Projeto | Conteúdo
 --- | --- | --- | ---
+01 | 11/10/2017 | IFPB | Alô Mundo Android - Java
+02 | 11/10/2017 | IFPBK | Alô Mundo Android - Kotlin
 
 
 ## **iOS**
