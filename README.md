@@ -28,6 +28,8 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 01 | 11/10/2017 | IFPB | Alô Mundo Android - Java
 02 | 11/10/2017 | IFPBK | Alô Mundo Android - Kotlin
 03 | 16/10/2017 | Rateio | MVC - Layout
+04 | 18/10/2017 | Grid | Gerenciador de Layout e Log
+05 | 18/10/2017 | Ciclo | Ciclo de Vida da View
 
 
 ## **iOS**
