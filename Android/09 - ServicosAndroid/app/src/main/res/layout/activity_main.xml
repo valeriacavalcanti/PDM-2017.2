@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.valeriacavalcanti.serviosandroid.MainActivity">
+
+    <Button
+        android:id="@+id/btHTTP"
+        android:text="Visualizar Página HTTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btDiscar"
+        android:text="Discar um número"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btLigar"
+        android:text="Ligar para um número"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btEmail"
+        android:text="Enviar e-mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btSMS"
+        android:text="Enviar SMS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btCompartilhar"
+        android:text="Compartilhar Texto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btPonto"
+        android:text="Visualizar Ponto no Mapa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btRota"
+        android:text="Visualizar Rota no Mapa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btYoutube"
+        android:text="Abrir vídeo do youtube"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btCamera"
+        android:text="Abrir a câmera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
