@@ -38,6 +38,7 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 11 | 18/11/2017 | Login | Intent e Intent-Filter
 12 | 18/11/2017 | UsaLogin | Intent e Intent-Filter
 13 | 20/11/2017 | Monitora | BroadcastReceiver
+14 | 22/11/2017 | GPS | LocationManager e LocationListener
 
 
 ## **iOS**
