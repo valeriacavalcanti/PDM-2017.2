@@ -51,6 +51,6 @@ Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de au
 \# | Data | Projeto | Conteúdo
 --- | --- | --- | ---
 01 | 13/12/2017 | Teste | Estrutura de um projeto XCode
-
+02 | 16/12/2017 | Pessoa | Action e Outlet
 
 
