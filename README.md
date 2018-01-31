@@ -57,3 +57,4 @@ Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de au
 05 | 22/01/2018 | Minhas Férias | 
 06 | 24/01/2018 | Janela | Navegação entre telas
 07 | 29/01/2018 | Carnaval | Navigation Controller
+08 | 31/01/2018 | Apuração | Navigation Controller
