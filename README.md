@@ -58,4 +58,4 @@ Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de au
 06 | 24/01/2018 | Janela | Navegação entre telas
 07 | 29/01/2018 | Carnaval | Navigation Controller
 08 | 31/01/2018 | Apuração | Navigation Controller
-09 | 03/02/2018 | Apuração | Persitência em Arquivo
+09 | 03/02/2018 | Apuração | Persistência em Arquivo
