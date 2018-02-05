@@ -59,3 +59,4 @@ Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de au
 07 | 29/01/2018 | Carnaval | Navigation Controller
 08 | 31/01/2018 | Apuração | Navigation Controller
 09 | 03/02/2018 | Apuração | Persistência em Arquivo
+10 | 05/02/2018 | Agenda de Pessoas | CoreData
